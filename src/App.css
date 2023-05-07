@@ -52,12 +52,12 @@ th, td {
 }
 
 th {
-  background-color: #dad8d8c7;
+  background-color: #918f8fc7;
   font-weight: bold;
 }
-
-tr:hover {
-  background-color: #f5f5f5;
+table tr:hover {
+  border: 1px solid #7b02a0;
+  box-shadow: 0 0 10px #7b02a0;
 }
 
 #search
@@ -80,6 +80,6 @@ input[type="text"] {
 
 input[type="text"]:focus {
   outline: none;
-  border-color: #0066cc;
-  box-shadow: 0 0 5px #0066cc;
+  border-color: #7b02a0;
+  box-shadow: 0 0 10px #8902b3;
 }
