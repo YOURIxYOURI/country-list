@@ -55,7 +55,7 @@ const CountryList = () => {
           <th>REGION</th>
           <th>POPULATION</th>
           <th>CURRENCY</th>
-          <th>languages</th>
+          <th>LANGUAGES</th>
           <th>TIMEZONES</th>
         </thead>
         <tbody>
