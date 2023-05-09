@@ -55,10 +55,6 @@ th {
   background-color: #918f8fc7;
   font-weight: bold;
 }
-table tr:hover {
-  border: 1px solid #7b02a0;
-  box-shadow: 0 0 10px #7b02a0;
-}
 
 #search
 {
